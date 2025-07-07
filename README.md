@@ -9,7 +9,7 @@
 - **Barrionuevo Michael**
 - **Flores Byron**
 - **Hurtado Kevin**
-- **Lechón Cristian**
+- **Lechon Cristian**
 - **Pila Jordi**
 - **Pujota Angelo**
 - **Tipán Edgar**
