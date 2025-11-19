@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.cuadricula{
+    display: grid;
+    grid-template-columns: 75px 75px 75px;
+    grid-template-rows: 75px 75px 75px;
+    border: 1px solid black;
+}
+
+label{
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+    border: 1px solid black;
+}
